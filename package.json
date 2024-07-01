@@ -1,0 +1,19 @@
+{
+  "name": "@wnyu-spinitron/sdk",
+  "version": "1.0.0",
+  "description": "A typescript interface package for the spinitron api, used by WNYU, NYU's college radio station",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "WNYU"
+  ],
+  "author": "WNYU",
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4",
+    "typescript": "^5.5.3"
+  }
+}
