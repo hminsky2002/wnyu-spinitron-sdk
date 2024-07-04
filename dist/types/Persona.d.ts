@@ -6,8 +6,8 @@ export interface Persona {
     since: number;
     email: string;
     website: string;
-    image: string;
-    _links: {
+    image?: string;
+    _links?: {
         self: Link;
         shows: Link[];
     };

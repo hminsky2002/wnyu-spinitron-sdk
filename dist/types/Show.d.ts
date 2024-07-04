@@ -1,4 +1,5 @@
 import { Link } from './Link';
+import { Persona } from './Persona';
 export interface Show {
     id: number;
     start: string;
@@ -13,6 +14,7 @@ export interface Show {
     url: string;
     hide_dj: boolean;
     image: string;
+    personas?: Persona[];
     _links: {
         self: Link;
         personas: Link[];

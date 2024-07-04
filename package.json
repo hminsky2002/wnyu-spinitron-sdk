@@ -1,6 +1,6 @@
 {
   "name": "@wnyu/spinitron-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A typescript interface package for the spinitron api, used by WNYU, NYU's college radio station",
   "main": "./dist/index.js",
   "scripts": {
