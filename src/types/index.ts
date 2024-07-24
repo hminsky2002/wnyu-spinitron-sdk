@@ -7,3 +7,4 @@ export * from './Spin';
 export * from './ValidationError';
 export * from './Error';
 export * from './Responses';
+export * from './SpinitronMetadata'
