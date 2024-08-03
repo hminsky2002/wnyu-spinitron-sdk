@@ -10,5 +10,5 @@ export interface SpinitronMetadata {
     show_id?: string;
     playlist_start_time?: string;
     playlist_end_time?: string;
-    playlist_tile?: string;
+    playlist_title?: string;
 }
